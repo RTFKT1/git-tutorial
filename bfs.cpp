@@ -24,6 +24,7 @@ void listify(vector<vector<int>>& edges,int n){
 }
 
 void bfs(){
+    int n;
     return;
 }
 
